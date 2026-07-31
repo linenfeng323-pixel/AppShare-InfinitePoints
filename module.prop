@@ -1,0 +1,9 @@
+# LSPosed模块配置
+id=appshare_infinite_points
+name=AppShare Infinite Points
+version=v1.0
+versionCode=1
+author=Operit
+description=为AppShare应用提供无限积分和VIP功能
+modulePath=./system/etc/permissions
+minApi=21
